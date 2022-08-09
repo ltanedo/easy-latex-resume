@@ -1,0 +1,39 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+\documentclass[11pt, a4paper]{awesome-cv}
+  \geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+  \fontdir[fonts/]
+  \colorlet{awesome}{awesome-skyblue}
+  \definecolor{awesome}{HTML}{1659B8}
+  \setbool{acvSectionColorHighlight}{true}
+
+  \renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+    \name{}{Lloyd Tanedo}
+    \position{Computer Science Graduate {\enskip\cdotp\enskip} Firm Believer of Accessability for All}
+    \address{ Everything below is entirely truthful.  While many works are private, all points have a public github example. }
+
+      \mobile{(+1) 516-499-0195}
+      \email{lloydtan@buffalo.edu}
+      \github{ltanedo}
+      \linkedin{ltanedo}
+
+%-------------------------------------------------------------------------------
+\begin{document}
+  \makecvheader[C]
+  \makecvfooter
+    {\today}
+    {Lloyd Tanedo~~~·~~~Résumé}
+    {\thepage}
+
+  \input{modules/universityWork.tex}
+  \input{modules/contributions.tex}
+  \input{modules/mySkills.tex}
+  \input{modules/education.tex}
+
+%-------------------------------------------------------------------------------
+\end{document}
