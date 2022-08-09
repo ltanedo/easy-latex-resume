@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.8.7)  9 AUG 2022 18:22
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.8.7)  9 AUG 2022 18:31
  restricted system commands enabled.
  file:line:error style messages enabled.
 **"/Users/hackintosh/Desktop/easy-latex/Resume - Summ 2022/resume.tex"
@@ -844,12 +844,12 @@ Here is how much of LuaTeX's memory you used:
  195462,1373583 words of node,token memory allocated
  645 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 8 attribute, 82 glue_spec, 8 attribute_list, 2 write nodes
-   avail lists: 1:2,2:1971,3:663,4:598,5:2496,6:276,7:18139,8:30,9:1659,10:23,11:1140
+   avail lists: 1:2,2:1971,3:663,4:598,5:2484,6:276,7:18154,8:30,9:1659,10:23,11:1152
  53770 multiletter control sequences out of 65536+600000
- 100 fonts using 32918147 bytes
+ 100 fonts using 32918299 bytes
  114i,11n,115p,676b,505s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf></usr/local/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Light.otf></usr/local/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-LightIt.otf></usr/local/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Bold.otf><./fonts/Roboto-Regular.ttf></usr/local/texlive/2022/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf><./fonts/Roboto-Italic.ttf></usr/local/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Regular.otf><./fonts/Roboto-Bold.ttf>
-Output written on resume.pdf (1 page, 48946 bytes).
+Output written on resume.pdf (1 page, 48976 bytes).
 
 PDF statistics: 87 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream

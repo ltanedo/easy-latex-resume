@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1660083773 "/Users/hackintosh/Desktop/easy-latex/Resume - Summ 2022/resume.tex" "resume.pdf" "resume" 1660083779
+["lualatex"] 1660084302 "/Users/hackintosh/Desktop/easy-latex/Resume - Summ 2022/resume.tex" "resume.pdf" "resume" 1660084308
   "/Users/hackintosh/Desktop/easy-latex/Resume - Summ 2022/resume.tex" 1660082479 1357 d822fccfac872c179771b0e46c3ece70 ""
   "/Users/hackintosh/Library/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/fontawesome.luc" 1659891869 65327 516072a6766fbaeb4e1eff0982cb95bd ""
   "/Users/hackintosh/Library/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/latinmodern-math.luc" 1659891890 637084 73ae50787ada38c742687c846e80a72e ""
@@ -25,7 +25,7 @@
   "/Users/hackintosh/Library/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/sourcesanspro-regularit.luc" 1659891873 432507 708ec5e432314d93ffe5fb5b61fff197 ""
   "/Users/hackintosh/Library/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/sourcesanspro-semibold.luc" 1659891878 700408 863bc15372a40307f25e554048d284a6 ""
   "/Users/hackintosh/Library/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/sourcesanspro-semiboldit.luc" 1659891880 439926 53290b405c4a5c0fb66f783504270f2d ""
-  "/Users/hackintosh/Library/texlive/2022/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc" 1660083778 245 3f23a78cb075c9f7af1beb906c8f3c43 "lualatex"
+  "/Users/hackintosh/Library/texlive/2022/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc" 1660084307 245 3f23a78cb075c9f7af1beb906c8f3c43 "lualatex"
   "/Users/hackintosh/Library/texlive/2022/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz" 1659891868 361180 6627b486c7f303c20ae439b8ee2fbf95 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Bold.otf" 1587936753 298076 b23705a4082d8c84d2533a37e9fb0811 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Light.otf" 1587936753 290464 420d839a0ccfb6a040d3a5c6af03c5aa ""
@@ -252,8 +252,8 @@
   "modules/contributions.tex" 1660083773 1441 17133c36c85036148be50715f69cb673 ""
   "modules/education.tex" 1660071518 789 4fa81278e280d3c337dd96abf2f969d7 ""
   "modules/mySkills.tex" 1660073233 1790 ab09279877668a458d27ec0f2c7fdc88 ""
-  "modules/universityWork.tex" 1660083671 6286 ea714cbcb87e502ae1dbff802c8c329a ""
-  "resume.aux" 1660083778 554 e6f85c6f44bbe194532b4fa1fd8ca02c "lualatex"
+  "modules/universityWork.tex" 1660084302 6287 0ae78be354e4b4d4efc25d2fe9e75c10 ""
+  "resume.aux" 1660084307 554 e6f85c6f44bbe194532b4fa1fd8ca02c "lualatex"
   "resume.out" 0 -1 0 "lualatex"
   "resume.tex" 1660082479 1357 d822fccfac872c179771b0e46c3ece70 ""
   (generated)
